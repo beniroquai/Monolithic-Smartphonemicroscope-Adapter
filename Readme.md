@@ -60,17 +60,17 @@ These are more-less all components you would need for the XY-stage to operate. T
 
 Fix the lens with some "GUM" if it wobbles
 <p align="left">
-<a href="#logo" name="logo"><img src="./IMAGES/Fig_2.jpg" width="400"></a>
+<a href="#logo" name="logo"><img src="./IMAGES/FIG_2.jpg" width="400"></a>
 </p>
 
 Add the screw for the focusing mechanism
 <p align="left">
-<a href="#logo" name="logo"><img src="./IMAGES/Fig_3.jpg" width="400"></a>
+<a href="#logo" name="logo"><img src="./IMAGES/FIG_3.jpg" width="400"></a>
 </p>
 
 Add Paper and aluminium foil to guide the light and diffuse it a bit
 <p align="left">
-<a href="#logo" name="logo"><img src="./IMAGES/Fig_5.jpg" width="400"></a>
+<a href="#logo" name="logo"><img src="./IMAGES/FIG_5.jpg" width="400"></a>
 </p>
 
 
