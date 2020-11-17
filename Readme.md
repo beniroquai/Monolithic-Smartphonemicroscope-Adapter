@@ -31,6 +31,9 @@ The core idea was to have the phone's torch used as the illumination for the mic
 - we added a white light as a light source attached to an old phone charger
 
 
+Other phones will also work. Eventually one has to adapt the CAD file to match the camera positio. Please file an issue. I'm happy to help! :-)
+
+
 
 ## 📷 Hands-on VIDEO
 A video to see the module in action can be found [here](https://photos.app.goo.gl/RLnbFnBnvYj6ESjV7)
@@ -44,7 +47,7 @@ A video to see the module in action can be found [here](https://photos.app.goo.g
 ## Software
 
 We rely on the Software "FreedCam" for Android phones. With this we can make use of the tele camera (3x optical zoom) from the Huawei P20.
-
+You can find it in the [Google play store](https://play.google.com/store/apps/details?id=troop.com.freedcam&hl=de&gl=US) or in the github page [here](https://github.com/KillerInk/FreeDcam).
 
 ## HARDWARE
 
